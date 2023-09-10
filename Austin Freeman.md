@@ -1,0 +1,9 @@
+---
+tags:
+  - tipo/pessoa
+---
+citado(a) na [[Página 3|pg3]]
+
+
+> [!WIkipedia] **Dr. Richard Austin Freeman** 
+> [MRCS](https://en.wikipedia.org/wiki/Membership_of_the_Royal_College_of_Surgeons "Membership of the Royal College of Surgeons") [LSA](https://en.wikipedia.org/wiki/Worshipful_Society_of_Apothecaries#Education,_history_and_qualifications "Worshipful Society of Apothecaries") (11 April 1862 – 28 September 1943) was a British writer of [detective stories](https://en.wikipedia.org/wiki/Detective_stories "Detective stories"), mostly featuring the medico-legal [forensic](https://en.wikipedia.org/wiki/Forensic "Forensic") [investigator](https://en.wikipedia.org/wiki/Detective "Detective") [Dr. Thorndyke](https://en.wikipedia.org/wiki/Dr._Thorndyke "Dr. Thorndyke"). He invented the [inverted detective story](https://en.wikipedia.org/wiki/Inverted_detective_story "Inverted detective story") (a crime fiction in which the commission of the crime is described at the beginning, usually including the identity of the perpetrator, with the story then describing the detective's attempt to solve the mystery). This invention has been described as Freeman's most noticeable contribution to detective fiction.[[1]](https://en.wikipedia.org/wiki/R._Austin_Freeman#cite_note-Roberts-1): 30  Freeman used some of his early experiences as a colonial [surgeon](https://en.wikipedia.org/wiki/Surgeon "Surgeon") in his novels. Many of the [Dr. Thorndyke](https://en.wikipedia.org/wiki/Dr._Thorndyke "Dr. Thorndyke") stories involve genuine, but sometimes arcane, points of scientific knowledge, from areas such as [tropical medicine](https://en.wikipedia.org/wiki/Tropical_medicine "Tropical medicine"), [metallurgy](https://en.wikipedia.org/wiki/Metallurgy "Metallurgy") and [toxicology](https://en.wikipedia.org/wiki/Toxicology "Toxicology").
